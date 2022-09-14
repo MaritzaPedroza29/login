@@ -13,7 +13,7 @@
     <form method="POST" action="controladorregistro.php">
         <div class="username">
                 <input type="text" class="form-control form-control-user" id="exampleFirstName"
-                name="usuario" placeholder="nombre"></br>
+                name="nombre" placeholder="nombre"></br>
                 <div class="username"><br>
                 <input type="email" class="form-control form-control-user" id="exampleInputEmail"
                                        name="correo" placeholder="correo electrónico"></div></br>
